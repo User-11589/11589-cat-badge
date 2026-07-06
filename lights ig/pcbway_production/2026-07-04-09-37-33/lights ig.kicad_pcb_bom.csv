@@ -1,0 +1,9 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+"C1, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C2, C20, C3, C4, C5, C6, C7, C8, C9",20,C_US,WCAP-ATG5_5X11_DXL_,,,,tht,"capacitor, US symbol"
+"D1, D15",2,~,Diode_DO-35,,,,tht,
+"D10, D11, D12, D13, D14, D16, D17, D18, D19, D2, D20, D21, D22, D23, D3, D4, D5, D6, D7, D8, D9",21,LED_WS2812B,LED_WS2812B,,,,smt,RGB LED with integrated controller
+R1,1,330,Resistor_0402,,,,smt,Resistor
+"S1, S2",2,~,SW_Cherry_MX_1.00u_PCB,,,,tht,
+SW1,1,Switch,SW_PUSH_6mm,,,,tht,"Push button switch, generic, two pins"
+U1,1,Raspberry_Pi_Pico,Raspberry_Pi_Pico,,,,tht,
+"U2, U3, U4",3,ER_OLEDM0.91_1x-I2C,ER_OLEDM0.91_1x-I2C,,,,tht,"SSD1306 OLED module, 0.91 inch, 128x32, I2C"
